@@ -18,7 +18,7 @@
 ## 1. Описание проекта    
 Необходимо произвести обработку и анализ базы данных резюме, выгруженной с сайта *hh.ru*.
 
-:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%B8%D0%B7-headhunter)
+:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ## 2. Какой кейс решаем?    
@@ -37,7 +37,7 @@
 >* Ответить на все контрольные вопросы: за них вы можете максимально набрать 30 баллов на платформе
 >* Загрузить ноутбук со своим решением на GitHub, оформив его в соответствии с требованиями.`
 
-:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%B8%D0%B7-headhunter)
+:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ## 3. Краткая информация о данных
 Данные представляют собой слабообработанный файл формата csv с различными индивидуальными данными кандидатов. 
@@ -45,7 +45,7 @@
 
 Датасеты, необходимые для выполнения проекта, содержатся на google диске по [ссылке](https://drive.google.com/drive/folders/1LD9_G3tfzdMQ2CoHtB7RnyW9EGmUmxJE?hl=ru). Было принято решение создать папку ***"data"***, поместить файлы в нее и дальнейшую выгрузку производить с учетом ного пути к файлам.
   
-:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%B8%D0%B7-headhunter)
+:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ## 4. Этапы работы над проектом  
@@ -65,16 +65,16 @@
 #### Этап 4. Очистка данных
 В этом разделе мы исследовали данные на предмет пропусков и аномальных значений. Также мы провели частичную очистку этих данных от пропусков и явных выбросов.
 
-:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%B8%D0%B7-headhunter)
+:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ## 5. Результат 
 В результате работы данные были подготовлены для выполнения различных задач, проанализированы с разных сторон и очищены от пропусков и выбросов, которые могут помешать построению моделей.
 
-:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%B8%D0%B7-headhunter)
+:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ## 6. Выводы
 Для работы в области Data Science данные нуждаются в исследовании, преобразовании в подходящий для работы вид, исследовании зависимости в них и очистке. Эти этапы необходимы для подготовки к работе с данными и создания эффективных моделей.
 
-:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%B8%D0%B7-headhunter)
+:arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
